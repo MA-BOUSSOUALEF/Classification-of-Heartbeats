@@ -1,1 +1,1 @@
-CC
+In this repository, we will perform the classification and processing of data using Scikit-Learn. We will create 8 programs: 2 supervised models with PCA and 2 without PCA, as well as 2 unsupervised models with PCA and 2 without PCA. These models will help us predict future heartbeats
